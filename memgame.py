@@ -1,3 +1,19 @@
+# Memory Game
+# Author: RecMatr
+# Date: 08/31/2016
+
+# Notes
+
+# :: On Incorrect, print what the number was.
+# :: Combos and combo breakers
+# :: :: Replace score?
+# :: :: Game over, offer to restart?
+# :*: Speed setting (modifies timer)
+# :*: Growing number
+# ::  Colors
+# :: Target box for the number: 3, 2, 1 countdown?
+# :: Look into changing font size
+
 import random
 import time
 import os
